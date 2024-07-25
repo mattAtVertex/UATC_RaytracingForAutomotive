@@ -1,0 +1,8 @@
+# Introduction to Lumen
+
+<p><img id="18952" src="https://vertexschool.instructure.com/courses/303/files/18952/preview?verifier=e9U19yrWzp8QbJg81pw3rheZatwlhDxb7QB6Pkdq" alt="Slide15.PNG" data-api-endpoint="https://vertexschool.instructure.com/api/v1/courses/303/files/18952" data-api-returntype="File"></p>
+<p><img id="18953" src="https://vertexschool.instructure.com/courses/303/files/18953/preview?verifier=yBs0Yu2kqK26u42Fjk66nqEWuirMfaZGLSiytlX5" alt="Slide16.PNG" data-api-endpoint="https://vertexschool.instructure.com/api/v1/courses/303/files/18953" data-api-returntype="File"></p>
+<p><img id="18954" src="https://vertexschool.instructure.com/courses/303/files/18954/preview?verifier=9RCNvfpabdEHTNzFLamSXKDWUInIMUKNKxsivZri" alt="Slide17.PNG" data-api-endpoint="https://vertexschool.instructure.com/api/v1/courses/303/files/18954" data-api-returntype="File"></p>
+<p><img id="18955" src="https://vertexschool.instructure.com/courses/303/files/18955/preview?verifier=edpAeAqtHYw5lKFmBXZnfy3tAlIjAbJoCM3cliEg" alt="Slide18.PNG" data-api-endpoint="https://vertexschool.instructure.com/api/v1/courses/303/files/18955" data-api-returntype="File"></p>
+<p><img id="18956" src="https://vertexschool.instructure.com/courses/303/files/18956/preview?verifier=p2s9pOsEJ6E0DOBT0Lc47Qlomq6MP6wKW0YMKGND" alt="Slide19.PNG" data-api-endpoint="https://vertexschool.instructure.com/api/v1/courses/303/files/18956" data-api-returntype="File"></p>
+<p><img id="18957" src="https://vertexschool.instructure.com/courses/303/files/18957/preview?verifier=K1FlkJQaBXDBv7cv1rbdt3XAdwH92OS88stbnAqz" alt="Slide20.PNG" data-api-endpoint="https://vertexschool.instructure.com/api/v1/courses/303/files/18957" data-api-returntype="File"></p>
