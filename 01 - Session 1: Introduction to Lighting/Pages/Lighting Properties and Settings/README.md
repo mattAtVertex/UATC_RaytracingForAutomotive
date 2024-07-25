@@ -1,0 +1,6 @@
+# Lighting Properties and Settings
+
+<p><img id="18947" src="https://vertexschool.instructure.com/courses/303/files/18947/preview?verifier=l2qabHWZXs84nK9KOPpLpYpceXHt6JwH5CgbyiOD" alt="Slide10.PNG" data-api-endpoint="https://vertexschool.instructure.com/api/v1/courses/303/files/18947" data-api-returntype="File"></p>
+<p><img id="18948" src="https://vertexschool.instructure.com/courses/303/files/18948/preview?verifier=qFVpGNVqKT5OR5L8xrz86ecUdx9aG2J4g8jfZScV" alt="Slide11.PNG" data-api-endpoint="https://vertexschool.instructure.com/api/v1/courses/303/files/18948" data-api-returntype="File"></p>
+<p><img id="18948" src="https://vertexschool.instructure.com/courses/303/files/18948/preview?verifier=qFVpGNVqKT5OR5L8xrz86ecUdx9aG2J4g8jfZScV" alt="Slide11.PNG" data-api-endpoint="https://vertexschool.instructure.com/api/v1/courses/303/files/18948" data-api-returntype="File"></p>
+<p><img id="18949" src="https://vertexschool.instructure.com/courses/303/files/18949/preview?verifier=1c5sRHgy54gHTt5Vz5k01ngdc5KurIEeHHoIjXlG" alt="Slide12.PNG" data-api-endpoint="https://vertexschool.instructure.com/api/v1/courses/303/files/18949" data-api-returntype="File"></p>
