@@ -1,0 +1,4 @@
+# Creating a New Project
+
+<p><span>&nbsp;</span><span>&nbsp;</span><img src="https://vertexschool.instructure.com/courses/303/files/18899/preview?verifier=aMWGCTBlPJI4noJ7849PbtA3wE0UoVpZctsjau53" alt="Slide4.PNG" data-api-endpoint="https://vertexschool.instructure.com/api/v1/courses/303/files/18899" data-api-returntype="File"></p>
+<p><img id="18904" src="https://vertexschool.instructure.com/courses/303/files/18904/preview?verifier=61Jsw5dZuJXVCafRpezYPTWwgTyCgfAMzvwXSgCO" alt="Slide5.PNG" data-api-endpoint="https://vertexschool.instructure.com/api/v1/courses/303/files/18904" data-api-returntype="File"></p>
