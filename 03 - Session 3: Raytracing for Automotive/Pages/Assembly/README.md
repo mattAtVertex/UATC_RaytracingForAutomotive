@@ -1,0 +1,6 @@
+# Assembly
+
+<p><img id="18925" src="https://vertexschool.instructure.com/courses/303/files/18925/preview?verifier=uv0C9HdRnFtN8WHXfffRNcNHnsvuGVG6RuGLPzg7" alt="Slide26.PNG" data-api-endpoint="https://vertexschool.instructure.com/api/v1/courses/303/files/18925" data-api-returntype="File"></p>
+<p><img id="18925" src="https://vertexschool.instructure.com/courses/303/files/18925/preview?verifier=uv0C9HdRnFtN8WHXfffRNcNHnsvuGVG6RuGLPzg7" alt="Slide26.PNG" data-api-endpoint="https://vertexschool.instructure.com/api/v1/courses/303/files/18925" data-api-returntype="File"></p>
+<p><img id="18920" src="https://vertexschool.instructure.com/courses/303/files/18920/preview?verifier=hgOWpGhwHPZbQH92qcrH3s06lL3NkE1ZNVFHuRZo" alt="Slide21.PNG" data-api-endpoint="https://vertexschool.instructure.com/api/v1/courses/303/files/18920" data-api-returntype="File"></p>
+<p><img id="18922" src="https://vertexschool.instructure.com/courses/303/files/18922/preview?verifier=7NveTdX5Lu6R0qumvuQI7nbE7IlTHjlUAGHgweVP" alt="Slide23.PNG" data-api-endpoint="https://vertexschool.instructure.com/api/v1/courses/303/files/18922" data-api-returntype="File"></p>
